@@ -1,4 +1,4 @@
-name: Build APK PROJECT
+name: Build APK PROJECT START
 
 on: [push, workflow_dispatch]
 
